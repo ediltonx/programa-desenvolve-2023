@@ -1,2 +1,3 @@
 # programa-desenvolve-2023
-Respositório do programa Desenvolve 2023 - Trilha DevOps
+
+O Desenvolve é programa gratuito de formação e inclusão em tecnologia do Grupo Boticário com a Alura. Este repositório contém os conteúdos aprendidos na Trilha de DevOps.
