@@ -12,7 +12,7 @@ Linux
 
 Docker
 
-Kubernettes
+Kubernetes
 
 Redes de computadores
 
