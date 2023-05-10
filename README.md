@@ -39,3 +39,5 @@ Integração contínua
 Entrega contínua
 
 Jenkins
+
+## O tópicos extras e challenges foram estudos complementares realizados em paralelo com a trilha e envolveram temas de softskills e desafios propostos pela Alura
